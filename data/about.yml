@@ -31,8 +31,3 @@ team:
 clients_logo_slider:
   enable: true
   title: My Clients
-menu:
-  main:
-    URL: about
-    name: L'équipe
-    weight: 1
